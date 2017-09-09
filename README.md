@@ -1,11 +1,11 @@
 # h-index-spark-
 
-#Big Data Systems 2017, First Spark Assignment¶
+# Big Data Systems 2017, First Spark Assignment¶
 
 In this assignment, you will use Spark to calculate the h-index.
  https://en.wikipedia.org/wiki/H-index
 
-#h-index
+# h-index
 
 The h-index is an indicator of a researcher's productivity and impact. For a given researcher, we count all the citations to their work. Then we put them in descending order. The h-index is the position, in the order we created, of the last publication whose citation count is greater than the position.
 

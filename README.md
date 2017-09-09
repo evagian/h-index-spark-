@@ -1,6 +1,6 @@
 # h-index-spark-
 
-# Big Data Systems 2017, First Spark Assignment¶
+# Big Data Systems 2017, First Spark Assignment
 
 In this assignment, you will use Spark to calculate the h-index.
  https://en.wikipedia.org/wiki/H-index

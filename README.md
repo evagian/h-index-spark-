@@ -37,7 +37,7 @@ That is, each line should contain a researcher and their h-index. The researcher
 
 # Solution
 
-```
+```scala
 package sparkApp
 
 /**

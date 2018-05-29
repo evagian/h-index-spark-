@@ -1,2 +1,4 @@
 * linguist-vendored
 *.scala linguist-vendored=false
+$ cat .gitattributes
+*.scala linguist-language=Scala
